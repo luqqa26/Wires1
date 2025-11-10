@@ -1,0 +1,26 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Notenverwaltungssystem HM",
+    "owner": "Luca Schambeck",
+    "description": "Ein webbasiertes System zur Verwaltung von Prüfungsnoten an der Hochschule München. Das System ermöglicht Lehrenden das Eintragen von Noten für ihre Lehrveranstaltungen, Studierenden das Einsehen ihrer eigenen Noten und Mitarbeitenden des Prüfungsamts das Lesen und Ändern aller Noten. Das System basiert auf Rollenverwaltung mit Authentifizierung und Autorisierung.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Systemarchitektur",
+        "diagramType": "STRIDE",
+        "placeholder": "Neue STRIDE Diagramm Beschreibung",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Michael Heinl",
+    "threatTop": 0
+  }
+}
